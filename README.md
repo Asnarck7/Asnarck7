@@ -1,6 +1,39 @@
-# ¡Hola! 👋 Soy Kevin Julián Guerrero Penagos
+# 👋 ¡Hola! Soy Kevin Julián Guerrero Penagos  
 
-🎓 Estudiante de Ingeniería de Sistemas (8° semestre) en la Universidad Cooperativa de Colombia.  
-💻 Apasionado por el desarrollo de software, especialmente en HTML, PHP y Docker.  
-🔭 Actualmente trabajando en mi portafolio web y proyectos de práctica académica.  
-📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/kevin-julian-guerrero-penagos-013b522b2) | kevinjgpo@gmail.com
+🎓 Estudiante de Ingeniería de Sistemas en la **Universidad Cooperativa de Colombia** (2022 - 2026)  
+💻 Apasionado por la **ciberseguridad**, **análisis de datos** y **desarrollo de software**.  
+🚀 Siempre en busca de aprender algo nuevo y mejorar mis habilidades técnicas.  
+
+---
+
+## 🌐 Conéctate conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Guerrero-blue?logo=linkedin)](https://www.linkedin.com/in/kevin-julian-guerrero-penagos-013b522b2/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Asnarck7-black?logo=github)](https://github.com/Asnarck7)  
+[![Email](https://img.shields.io/badge/Email-kevinjulianguerrero7%40gmail.com-red?logo=gmail)](mailto:kevinjulianguerrero7@gmail.com)  
+
+---
+
+## 🛠️ Tecnologías y Herramientas  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📌 Proyectos Destacados  
+- 🔍 **Algoritmos de Búsqueda** — Implementación en Python de BFS, DFS, búsqueda con coste uniforme.  
+- 📊 **Análisis de Datos** — Uso de Pandas, Numpy, Matplotlib y Seaborn para visualizaciones y correlaciones.  
+- 🔐 **Seguridad Informática** — Prácticas de criptografía y seguridad en redes.  
+
+---
+
+## 📈 Estadísticas de mi GitHub  
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Asnarck7&show_icons=true&theme=tokyonight)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Asnarck7&layout=compact&theme=tokyonight)  
+
+---
+
+> _"La mejor forma de predecir el futuro es creándolo."_ ✨
