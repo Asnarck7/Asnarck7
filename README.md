@@ -9,7 +9,7 @@
 ## 🌐 Conéctate conmigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Guerrero-blue?logo=linkedin)](https://www.linkedin.com/in/kevin-julian-guerrero-penagos-013b522b2/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Asnarck7-black?logo=github)](https://github.com/Asnarck7)  
-[![Email](https://img.shields.io/badge/Email-kevinjulianguerrero7%40gmail.com-red?logo=gmail)](mailto:kevinjulianguerrero7@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-kevinjgp0%40gmail.com-red?logo=gmail)](mailto:kevinjulianguerrero7@gmail.com)  
 
 ---
 
