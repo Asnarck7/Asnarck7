@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Kevin Julián Guerrero Penagos  
 
-🎓 Estudiante de Ingeniería de Sistemas en la **Universidad Cooperativa de Colombia** (2022 - 2026)  
+🎓 Estudiante de Ingeniería de Sistemas en la **Universidad Cooperativa de Colombia me encuentro en 8° semestre** (2022 - 2026)  
 💻 Apasionado por la **ciberseguridad**, **análisis de datos** y **desarrollo de software**.  
 🚀 Siempre en busca de aprender algo nuevo y mejorar mis habilidades técnicas.  
 
