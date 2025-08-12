@@ -14,21 +14,12 @@
 ---
 
 ## 🛠️ Tecnologías y Herramientas  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
-
-## 📌 Proyectos Destacados  
-- 🔍 **Algoritmos de Búsqueda** — Implementación en Python de BFS, DFS, búsqueda con coste uniforme.  
-- 📊 **Análisis de Datos** — Uso de Pandas, Numpy, Matplotlib y Seaborn para visualizaciones y correlaciones.  
-- 🔐 **Seguridad Informática** — Prácticas de criptografía y seguridad en redes.  
-
----
 
 ## 📈 Estadísticas de mi GitHub  
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Asnarck7&show_icons=true&theme=tokyonight)  
